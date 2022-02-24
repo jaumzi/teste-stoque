@@ -74,8 +74,8 @@ import SafeAreaView from 'react-native-safe-area-view';
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    flexGrow: 1,
-    flexShrink: 1,
+    // flexGrow: 1,
+    // flexShrink: 1,
   },
 });
 

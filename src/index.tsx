@@ -19,11 +19,11 @@ export default function App() {
   }
 
   return (
-    <SafeAreaProvider>
-      <ScreenContainer>
+    // <SafeAreaProvider>
+    //   <ScreenContainer>
         <FaceDetectionCamera></FaceDetectionCamera>
-      </ScreenContainer>
-    </SafeAreaProvider>
+    //   </ScreenContainer>
+    // </SafeAreaProvider>
   );
 }
 
